@@ -5,3 +5,4 @@ mediapipe
 numpy
 thread6
 joblib
+uvicorn
