@@ -6,3 +6,4 @@ numpy
 thread6
 joblib
 uvicorn
+protobuf==3.20.1
