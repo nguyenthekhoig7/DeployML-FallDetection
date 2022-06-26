@@ -3,7 +3,7 @@ starlette
 opencv-python
 mediapipe
 numpy
-threading
+thread6
 joblib
 time
 shutil
