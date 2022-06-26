@@ -1,0 +1,10 @@
+fastapi
+starlette.responses
+cv2
+mediapipe
+numpy
+threading
+joblib
+time
+shutil
+json
