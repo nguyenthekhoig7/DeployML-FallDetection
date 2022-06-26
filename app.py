@@ -18,7 +18,8 @@ global lm_list
 mpPose = mp.solutions.pose
 pose = mpPose.Pose()
 mpDraw = mp.solutions.drawing_utils
-model = joblib.load('C://fall-urdataset-csv//model//model_final.sav')
+# model = joblib.load('C://fall-urdataset-csv//model//model_final.sav')
+model = joblib.load('model_final.sav')
 
 def make_landmark_timestep(results):
     c_lm = []
