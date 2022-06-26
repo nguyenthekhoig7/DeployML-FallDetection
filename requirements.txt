@@ -5,5 +5,3 @@ mediapipe
 numpy
 thread6
 joblib
-shutil
-json
