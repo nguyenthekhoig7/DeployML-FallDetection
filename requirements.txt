@@ -1,6 +1,6 @@
 fastapi
 starlette
-opencv-python
+opencv-python-headless==4.2.0.32
 mediapipe
 numpy
 thread6
