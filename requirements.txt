@@ -1,5 +1,5 @@
 fastapi
-starlette.responses
+starlette
 cv2
 mediapipe
 numpy
