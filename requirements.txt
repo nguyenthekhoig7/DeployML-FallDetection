@@ -1,11 +1,12 @@
 fastapi
 starlette
-opencv-python--headless==3.4.18.65
+opencv-python==4.5.5.62
+opencv-contrib-python==4.5.5.64
 mediapipe
 numpy
 thread6
 joblib
 uvicorn
 protobuf==3.20.1
-scikit-learn
-python-multipart
+python-multipart==0.0.5
+sklearn
